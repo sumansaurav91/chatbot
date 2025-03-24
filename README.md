@@ -2,6 +2,9 @@
 
 This project demonstrates a chatbot implementation using React, TypeScript, Claude as an MCP (Message Control Protocol) client, and a connection to an external API.
 
+## Architecture
+![ChatBot-MCP](https://github.com/user-attachments/assets/c88e8575-4395-457a-ad8b-f13cdf439ece)
+
 ## Project Structure
 
 - **src/components**: React components for the chatbot UI
