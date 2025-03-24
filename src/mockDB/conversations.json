@@ -1,0 +1,24 @@
+{
+  "conversations": [
+    {
+      "id": "conv-001",
+      "userId": "user-001",
+      "messages": [
+        {
+          "id": "msg-001",
+          "content": "Hello there!",
+          "sender": "user",
+          "timestamp": "2025-03-20T10:15:00.000Z"
+        },
+        {
+          "id": "msg-002",
+          "content": "Hi! How can I help you today?",
+          "sender": "bot",
+          "timestamp": "2025-03-20T10:15:02.000Z"
+        }
+      ],
+      "startedAt": "2025-03-20T10:15:00.000Z",
+      "lastUpdatedAt": "2025-03-20T10:15:02.000Z"
+    }
+  ]
+}
